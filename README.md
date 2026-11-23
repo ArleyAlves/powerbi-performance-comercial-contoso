@@ -53,3 +53,10 @@ Menu lateral inspirado em aplicações web utilizando **Indicadores (Bookmarks)*
 - **SQL Server (T-SQL):** Extração, tratamento e auditoria de consistência da base `ContosoRetailDW`
 - **Power BI Desktop:** ETL com Power Query (M), Modelagem Star Schema, DAX e UI/UX Design
 - **Figma / SVG:** Criação de backgrounds customizados em Dark Mode e ícones temáticos
+
+## Ferramentas e linguagens utilizadas
+<div style="display: inline_block">
+  <img align="center" alt="SQL" height="40" width="40" src="https://github.com/ArleyAlves/Portfolio/blob/main/linguagens/sql.png?raw=true">
+  <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/ArleyAlves/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">
+  <img align="center" alt="Python" height="40" width="40" src="https://github.com/ArleyAlves/Portfolio/blob/main/linguagens/python.png?raw=true">
+</div>
