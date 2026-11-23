@@ -58,5 +58,4 @@ Menu lateral inspirado em aplicações web utilizando **Indicadores (Bookmarks)*
 <div style="display: inline_block">
   <img align="center" alt="SQL" height="40" width="40" src="https://github.com/ArleyAlves/Portfolio/blob/main/linguagens/sql.png?raw=true">
   <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/ArleyAlves/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">
-  <img align="center" alt="Python" height="40" width="40" src="https://github.com/ArleyAlves/Portfolio/blob/main/linguagens/python.png?raw=true">
 </div>
