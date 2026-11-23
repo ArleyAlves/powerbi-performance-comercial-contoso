@@ -7,7 +7,7 @@ Fazendo o download do arquivo `ContosoRetailDW.bak` e restaurando-o no SQL Serve
 ---
 
 ## 🔗 Acesso Rápido ao Projeto
-- 🌐 **[Clique aqui e acesse o Dashboard Interativo Online (Power BI Service)](https://app.powerbi.com/groups/me/reports/3a1cb6d4-5e4c-4d16-b7c2-4ecfa4f83b09/a4122e49d0908b707500?experience=power-bi)**
+- 🌐 **[Clique aqui e acesse o Dashboard Interativo Online (Power BI Service)](https://app.powerbi.com/view?r=eyJrIjoiYjNmZGMyM2UtYmRiZS00N2MwLWEyMmYtMzMwZTIyMDgyNmQ1IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)**
 - 📁 **[Clique aqui e acesse o arquivo `.pbix` no GitHub](SalesContosoRetail.pbix)**
 - 🗄️ **[Clique aqui e acesse os scripts SQL no GitHub](SQL/ContosoRetail_Validacao.sql)**
 
